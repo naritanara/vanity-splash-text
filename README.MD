@@ -1,5 +1,5 @@
 # Vanity Splash Text
-![https://modrinth.com/mod/vanity-splash-text](https://img.shields.io/modrinth/dt/vanity-splash-text?logo=modrinth&label=‎Modrinth&style=for-the-badge) ![https://www.curseforge.com/minecraft/mc-mods/vanity-splash-text](https://cf.way2muchnoise.eu/short_661970.svg?badge_style=for_the_badge) ![https://github.com/rdvdev2/vanity-splash-text/releases](https://img.shields.io/github/downloads/rdvdev2/vanity-splash-text/total?style=for-the-badge&logo=github&label=GitHub%20Releases)
+![https://modrinth.com/mod/vanity-splash-text](https://img.shields.io/modrinth/dt/vanity-splash-text?logo=modrinth&label=‎Modrinth&style=for-the-badge) ![https://www.curseforge.com/minecraft/mc-mods/vanity-splash-text](https://cf.way2muchnoise.eu/short_661970.svg?badge_style=for_the_badge) ![https://github.com/naritanara/vanity-splash-text/releases](https://img.shields.io/github/downloads/naritanara/vanity-splash-text/total?style=for-the-badge&logo=github&label=GitHub%20Releases)
 
 Have you ever discovered a modpack, seen the twenty-page list of mods, and decided to play without knowing exactly what
 mods are you using? This mod is the solution to all your nightmares: it replaces the splash screen random texts with a
